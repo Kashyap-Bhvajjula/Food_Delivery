@@ -1,0 +1,5 @@
+export const Swiggy_API = "https://www.swiggy.com/dapi/restaurants/list/v5?lat=17.7153595&lng=83.2974"
+export const Cloudinary_URL = "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/"
+export const Search_API = "https://www.swiggy.com/dapi/restaurants/search/v3?lat=19.0090631&lng=73.0383147&str="
+export const Search_API2 = "&trackingId=undefined&submitAction=ENTER&queryUniqueId=b9334f59-c741-16d1-c3e8-7a202955b2be"
+export const Menu_API = "https://www.swiggy.com/dapi/menu/pl?page-type=REGULAR_MENU&complete-menu=true&lat=17.7153595&lng=83.3032795&restaurantId="
